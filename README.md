@@ -1,2 +1,3 @@
-# LearnDataStruct
-学习数据结构
+# Student Manage System
+学生管理系统
+大一下学期数据结构课外作业
